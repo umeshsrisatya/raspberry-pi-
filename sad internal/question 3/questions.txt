@@ -1,0 +1,3 @@
+A. Area of a given shape (rectangle, triangle and circle) reading shape and appropriate
+  values from standard input.
+B.Print a name 'n' times, where name and n are read from standard input, using for and  while loops.

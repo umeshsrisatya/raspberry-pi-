@@ -1,0 +1,4 @@
+Run some Python programs on Raspberry Pi: 
+A. Read your name and print Hello message with name.
+B. Read two numbers and print their sum, difference, product and division
+C. Word and character count of a given string.
